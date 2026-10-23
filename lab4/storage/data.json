@@ -1,0 +1,18 @@
+[
+    {
+        "VIN": 1,
+        "brand": 1,
+        "model": 1,
+        "year": 1,
+        "mileage": "5",
+        "price": 1
+    },
+    {
+        "VIN": "H4S3B0LZ4N81B0NHY",
+        "brand": "lada",
+        "model": "granta",
+        "year": 2012,
+        "mileage": 1200,
+        "price": 1200000
+    }
+]

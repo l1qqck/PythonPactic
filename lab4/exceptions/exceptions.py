@@ -1,0 +1,2 @@
+class InvalidMileageError(Exception):
+	pass
